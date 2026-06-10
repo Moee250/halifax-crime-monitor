@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and environment
+.env
+
+# Local data and experiment artifacts
+data/
+mlruns/
+*.db
+
+# OS / editor noise
+.DS_Store
+.vscode/
